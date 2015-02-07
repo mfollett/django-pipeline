@@ -3,10 +3,9 @@ language: python
 sudo: false
 
 env:
-  - TOXENV=py26-1.6.X
-  - TOXENV=py27-1.6.X
-  - TOXENV=pypy-1.6.X
-  - TOXENV=py33-1.6.X
+  - TOXENV=py27-1.7.X
+  - TOXENV=pypy-1.7.X
+  - TOXENV=py33-1.7.X
   - TOXENV=py27
   - TOXENV=pypy
   - TOXENV=py33
